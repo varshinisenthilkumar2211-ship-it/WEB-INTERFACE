@@ -1,0 +1,38 @@
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: darkblue;
+    text-align: left;
+}
+
+h3 {
+    color: hotpink;
+}
+
+p {
+    color: green;
+}
+
+/* unvisited link */
+a:link {
+    color: blue;
+}
+
+/* visited link */
+a:visited {
+    color: purple;
+}
+
+/* hover link */
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+/* active link */
+a:active {
+    color: orange;
+}
